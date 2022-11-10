@@ -1,0 +1,36 @@
+body{
+background-color: navy;
+    background-size: relative;
+}
+
+h1{
+text-align: left;
+color: antiquewhite;
+}
+h2{
+text-align: right;
+color: antiquewhite;
+}
+
+
+p {
+	font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    text-align: center;
+}
+
+
+
+
+
+summary{
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    color: gainsboro;
+    }
+
+    summary2{
+        text-align: right;
+
+    }

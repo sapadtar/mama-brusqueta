@@ -1,0 +1,11 @@
+body{
+background-image: url(https://i.pinimg.com/originals/de/e3/e9/dee3e93525e04742aa56b6139b156be3.png);
+background-attachment: fixed;
+background-size: cover;
+}
+
+a{
+text-align:right;
+font-size: 12px;
+font-family: Arial, Helvetica, sans-serif;
+}

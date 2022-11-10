@@ -1,0 +1,46 @@
+body{
+background-color: darkcyan;
+background-size: cover;
+}
+p, h1, h2, h3, h4, h5, h6{
+	color: white;
+	font-family: times new roman;
+}
+table, td, tr, th{
+border: 1px solid #ffffff;
+width: 1px;
+height: 1px;
+}
+a:link, a:visited{
+		color: white;
+		background-color: #000000;
+		font-size: 15px;
+		font-family: times new roman;
+		text-decoration: underline;
+		width: 1px;
+		height: 1px;
+	}
+a:hover, a:active{
+		color: white;
+		background-color: #000000;
+		font-size: 16px;
+		font-family: times new roman;
+		text-decoration: underline;
+	}
+#geral{
+position: absolute;
+width: 1px;
+height: 1px;
+border: 0px solid #fff;
+margin: 5px;
+}
+#secundaria{
+position: relative;
+}
+textarea{
+	resize: none;
+}
+input{
+	color: white;
+	font-family: times new roman;
+}
