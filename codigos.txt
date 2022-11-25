@@ -1,0 +1,82 @@
+<tr>
+   <td>
+  <h2></h2> <img  width="200" height="250" src="">
+</td>
+<td>
+   <h3></h3>
+   </td>
+   </tr>
+
+
+
+<tr>
+        <td>
+        <img width="250px" height="250px" src=""> <h1></h1>
+        <h3> 
+        </h3>
+        <br>
+        <br>
+        <h2> ataques:</h2>
+        <h3></h3>
+        <h3></h3>
+        </td>
+        </tr>
+
+
+
+
+
+
+ <tr>
+ <td>
+ <h3> </h3>
+  <img src=""> 
+  </td> </tr>
+
+
+
+
+
+
+
+<tr>
+<td>
+<a href=""  > <img src="" width=" 350"
+  height="300"> <h3> </h3> </a>
+ <td>
+ <tr>
+
+
+
+
+
+
+
+
+ <tr>
+<td>
+<img height="250px" width="250px" src=""> <h2> </h2>
+</td>
+</tr>
+
+
+
+<tr>
+<td>
+<h1> armaduras pré-hardmode</h1>
+</td>
+</tr>
+
+
+eventos:
+    <tr>
+      <td>
+     <h2></h2> <img  width="300" height="250" src="">
+   </td>
+   <td>
+      <h3>  
+      
+      </h3>
+      </td>
+      </tr>
+  
