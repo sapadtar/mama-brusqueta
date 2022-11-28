@@ -1,7 +1,8 @@
 
 body{
-    background-color: cadetblue;
-    background-size: relative;
+	background-image: url(https://images3.alphacoders.com/107/1079554.png);
+   background-attachment: fixed;
+background-size: cover;
     }
 
     
