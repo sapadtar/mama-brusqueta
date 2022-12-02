@@ -1,0 +1,23 @@
+body{
+    background-image: url(https://images3.alphacoders.com/107/1079554.png);
+    background-attachment: fixed;
+    background-size: cover;
+    }
+
+h1,h2,h3{
+font-family: Verdana,  Tahoma, sans-serif;
+color: black;
+
+}
+.borda2{
+background-color: rgba(213, 177, 32, 0.647);
+
+
+}
+
+    .borda{
+width: 125;
+height: ;
+        background-color: rgba(242, 41, 41, 0.661);
+        
+        }

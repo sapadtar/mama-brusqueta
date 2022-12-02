@@ -191,8 +191,16 @@ eventos:
                                     </tr>
 
                                     
-borda:
+bordas:
+
+pra texto:
+
 <div class="borda">
   <h1 font-size: 200px
   >  
   </h1></div>
+
+sem texto:
+
+  <div class="borda">
+  </div>
