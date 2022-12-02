@@ -11,5 +11,12 @@ color: brown;
 
 h3{
 text-align: left;
+font-size: 25;
     
 }
+
+.borda{
+
+  background-color: rgba(114, 233, 114, 0.559);
+  
+  }
