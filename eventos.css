@@ -14,9 +14,15 @@ p{
 
 
 
+    h2{
+        color: antiquewhite;
+
+
+    }
 h1,p{
 font-style: oblique;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
 }
 h3{
 text-align: left;
