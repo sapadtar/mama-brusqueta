@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://images8.alphacoders.com/107/1079553.png);
+    background-attachment: fixed;
+    background-size: cover;
+    }
+
+h1, h2{
+font-size: 25px;
+font-style: oblique;
+color: whitesmoke;
+
+}
+
+h3{
+font-size: 20px;
+color: antiquewhite;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: left;
+}
+
+.borda{
+
+    background-color: rgba(114, 233, 114, 0.559);
+    
+    }
